@@ -1,16 +1,14 @@
 # Teste jelastic git
 
-Bem-vindo ao Projeto Incrível! Este repositório contém tudo o que você precisa saber para começar a contribuir ou usar nosso incrível software.
+Bem-vindo ao Teste jelastic git
 
 ## Visão Geral
 
-Este projeto tem como objetivo [descrever o objetivo principal do projeto].
+Este projeto tem como objetivo Teste no jelastic
 
-## Funcionalidades
+## Funcionalidade
 
-- [Liste aqui as principais funcionalidades do seu projeto]
-- [Outra funcionalidade incrível]
-- [E mais uma!]
+- [GERAR AMBIENTE DE PRODUÇÃO EM APLICAÇÃO SPRING BOOT]
 
 ## Começando
 
